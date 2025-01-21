@@ -1,4 +1,4 @@
-# 6.-Showz-Marketing-Expenses-Optimization
+# 6.-Showz-Marketing-Expenses-Optimization 📊
 
 ## 🚀 Project Description
 After successfully completing the TripleTen course, you were offered an internship in the analytics department at Showz, a ticket sales company. Your main task is to optimize marketing expenses and analyze how customers interact with the service.
