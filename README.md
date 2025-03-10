@@ -39,6 +39,38 @@ revenue: Revenue generated from the order.
 3. Identify the most profitable advertisement sources.
 4. Determine the breakeven point between revenue and acquisition costs.
 
+
+## 📊 Analysis Results  
+
+### 🔍 User Behavior and Purchase Trends  
+- **Analysis Period:** June 2017 - May 2018.  
+- **Total visits:** 359,400.  
+  - **73% on desktop**.  
+  - **27% on touch devices**.  
+- **Average visitors:**  
+  - **907 per day**.  
+  - **23,228 per month**.  
+- A **spike in sessions was observed in November and December 2017**, driven by **Black Friday and Christmas**.  
+- On average, **each user makes 5 purchases**.  
+
+### 📈 Recommendations for the Marketing Team  
+
+1️⃣ **Customer Retention Strategies**  
+   - **Retention rate is high in the first months**, but users tend to become inactive over time.  
+   - Implementing a **loyalty or points accumulation program** is recommended to encourage repeat purchases.  
+
+2️⃣ **Strategies to Convert Visitors into Buyers**  
+   - Some users **take days or even months to complete a purchase**.  
+   - Sending **reminder emails** with offers or discounts could help close this gap and improve conversion rates.  
+
+3️⃣ **Optimization of Acquisition Costs**  
+   - **Acquisition source number (3) has significantly high costs** compared to the revenue it generates.  
+   - It is recommended to **reduce spending on this source and increase investment in source number (1)**, as it delivers higher profitability.  
+
+4️⃣ **Business Profitability and Sustainability**  
+   - The company is **solid and profitable**, as the **Customer Lifetime Value (LTV) is 7 times higher than the Customer Acquisition Cost (CAC)**.  
+   - This indicates that the investment in customer acquisition is well balanced with the long-term revenue generated.  
+
 ## 🛠️ Technologies Used
 * Programming Languages: Python
 * Data Analysis: Pandas, NumPy, SciPy
